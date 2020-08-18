@@ -35,6 +35,10 @@ Might even have the GPS location.
 Use this website to process it:
 http://exifdata.com/
 
+<br><br>
+<h2>Geolocation OSINT:</h2><br><br>
+https://www.duplichecker.com/reverse-image-search.php -- Check out the other tools in the website as well.
+
 Find out who owns a certain domain:
 https://whois.domaintools.com/
 https://in.godaddy.com/whois
