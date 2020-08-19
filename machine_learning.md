@@ -1,2 +1,3 @@
 <b>Resources:</b><br>
-https://arxiv.org/
+https://arxiv.org/ <br>
+https://www.kaggle.com/
