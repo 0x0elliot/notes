@@ -35,3 +35,7 @@ Audio Driver Interface commands are nice to use. Most linux systems use PulseAud
 3. Press (Not hold) Control+V in Command mode and then use your arrow keys to select the desired portion of text you want to copy.
 Then press y to 'yank'/copy the text. Move your cursor to the desired area where you want to paste the copied text. Press 'p' to paste
 the test. Bingo! You copied and pasted a code block on vim.
+<br>
+<br>
+<b>How to delete a line:</b><br>
+4. Place your cursor on the line you want to delete, Then press esc to go to command mode and enter 'dd'. You will see that your line will disapear.
