@@ -38,4 +38,5 @@ the test. Bingo! You copied and pasted a code block on vim.
 <br>
 <br>
 <b>How to delete a line:</b><br>
-4. Place your cursor on the line you want to delete, Then press esc to go to command mode and enter 'dd'. You will see that your line will disapear.
+4. Place your cursor on the line you want to delete, Then press esc to go to command mode and enter 'dd'. You will see that your line will disapear.<br>
+5. <b>Deleting multiple lines:</b> Again, Repeat the same process, Just do 5dd instead of just dd to delete 5 lines. Replace 5 with whatever number of lines you want to delete.
