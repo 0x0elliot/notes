@@ -40,3 +40,29 @@ the test. Bingo! You copied and pasted a code block on vim.
 <b>How to delete a line:</b><br>
 4. Place your cursor on the line you want to delete, Then press esc to go to command mode and enter 'dd'. You will see that your line will disapear.<br>
 5. <b>Deleting multiple lines:</b> Again, Repeat the same process, Just do 5dd instead of just dd to delete 5 lines <b>below the line, Including the lines your cursor is on.</b>. Replace 5 with whatever number of lines you want to delete.
+<br><br>
+<b>5. How to pass commands into the command line from vim: </b><br>
+
+
+
+
+
+
+```
+:!ls
+```
+
+
+
+
+Similarly you can run your script without leaving vim.
+<b>Running python from VIM, For example:</b><br>
+
+
+
+
+
+
+```
+:!python3 script.py
+```
