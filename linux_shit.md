@@ -66,3 +66,18 @@ Similarly you can run your script without leaving vim.
 ```
 :!python3 script.py
 ```
+
+
+
+<b>Run Multiple VIM commands together: </b><br>
+Put '|' between the commmands.
+For example:
+<br>
+
+
+
+
+
+```
+:w | :!python3 run.py
+```
