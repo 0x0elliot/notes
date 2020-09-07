@@ -76,5 +76,4 @@ https://hadzy.com/
 <h2>Geolocation OSINT:</h2><br><br>
 https://www.duplichecker.com/reverse-image-search.php -- Check out the other tools in the website as well.
 <br><br><br>
-Use https://breachdirectory.tk/ to check leaks.
-
+Use https://breachdirectory.tk/<br>scylla.sh/<br>to check data breaches
