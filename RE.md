@@ -7,11 +7,11 @@ http://www2.cs.uregina.ca/~hilder/cs833/Other%20Reference%20Materials/The%20C%20
 While tracing malicious links, Try using urlscan.io<br>
 <br>
 <h2>Basic Inspection:</h2><br>
-<code>strings (filepath)</code>    -     Very basic file inspection. Often gives you a lot of info.<br>
+<b>strings (filepath)</b>    -     Very basic file inspection. Often gives you a lot of info.<br>
 <br>
-<code>binwalk (filepath)</code>    -     Very basic information related to the binary itself. Worth a read.
+<b>binwalk (filepath)</b>    -     Very basic information related to the binary itself. Worth a read.
 <br>
 <b>Basic trick:</b> Try decompressing the file simply using 7-zip. Works sometimes kek.<br>
-<code>hexdump -d (filepath)</code> -     Dumps the contents of the binary file.
+<b>hexdump -d (filepath)</b> -     Dumps the contents of the binary file.
 <br>
 
