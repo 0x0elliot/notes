@@ -10,8 +10,8 @@ While tracing malicious links, Try using urlscan.io<br>
 <b>strings (filepath)</b>    -     Very basic file inspection. Often gives you a lot of info.<br>
 <br>
 <b>binwalk (filepath)</b>    -     Very basic information related to the binary itself. Worth a read.
-<br>
-<b>Basic trick:</b> Try decompressing the file simply using 7-zip. Works sometimes kek.<br>
+<h3>Basic trick:</h3> Try decompressing the file simply using 7-zip. Works sometimes kek.<br>
 <b>hexdump -d (filepath)</b> -     Dumps the contents of the binary file.
 <br>
+<h1>Dealing with Python binaries:</h1><br>
 
