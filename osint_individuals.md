@@ -85,9 +85,9 @@ each county and city has semipublic court information history that can be abused
 by combining the information gathered through these system, you can gain much more information about an individual than you could
 using well known public tools for information gathering.</p>
 
-<img src="https://imgur.com/a/9mc7kkb" alt="GIS1"/>
+<img src="https://i.imgur.com/IbryUsk.png" alt="GIS1"/>
 <br>
-<img scr="https://imgur.com/a/zC3tAxM" alt="GIS2"/>
+<img scr="https://i.imgur.com/4BPamvP.png" alt="GIS2"/>
 <br>
 
 <br><br>
