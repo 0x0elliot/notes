@@ -75,5 +75,21 @@ https://hadzy.com/
 <br><br>
 <h2>Geolocation OSINT:</h2><br><br>
 https://www.duplichecker.com/reverse-image-search.php -- Check out the other tools in the website as well.
-<br><br><br>
+<br>
+<b>Sporeo's Contribution:</b><br><p>
+In the united states and many other countries there is a system known as GIS (Geographic Information Systems) that is public information. its mostly used by the city or county to get information about properties called Parcels in the tool, taxes, zoning, etc. 
+there is also a system known as AIR (Address Information Resource) that is basically the same thing but may give more details into buildings
+
+each county and city has semipublic court information history that can be abused for an OSINT attack.
+
+by combining the information gathered through these system, you can gain much more information about an individual than you could
+using well known public tools for information gathering.</p>
+
+<img src="https://imgur.com/a/9mc7kkb" alt="GIS1">
+<br>
+<img scr="https://imgur.com/a/zC3tAxM" alt="GIS2">
+<br>
+
+<br><br>
+<>
 Use https://breachdirectory.tk/<br>scylla.sh/<br>to check data breaches
