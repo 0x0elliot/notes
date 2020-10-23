@@ -84,7 +84,8 @@ by combining the information gathered through these system, you can gain much mo
 using well known public tools for information gathering.</p>
 
 <img src="https://i.imgur.com/IbryUsk.png" alt="GIS1"/>
-<img scr="https://i.imgur.com/4BPamvP.png" alt="GIS2"/>
+
+<img src="https://i.imgur.com/4BPamvP.png" alt="GIS2"/>
 
 
 Use https://breachdirectory.tk/<br>scylla.sh/<br>to check data breaches
