@@ -71,7 +71,7 @@ Analyze YouTube Comments:
 https://hadzy.com/
 
 <br>
-<h2>Geolocation OSINT:</h2><br><br>
+<h2>Geolocation OSINT:</h2><br>
 <b><a href="https://github.com/Sporeo">Sporeo's Contribution:</a></b><br><p>
 In the united states and many other countries there is a system known as GIS (Geographic Information Systems) that is public information. its mostly used by the city or county to get information about properties called Parcels in the tool, taxes, zoning, etc. 
 there is also a system known as AIR (Address Information Resource) that is basically the same thing but may give more details into buildings
