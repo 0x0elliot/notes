@@ -91,5 +91,4 @@ using well known public tools for information gathering.</p>
 <br>
 
 <br><br>
-<>
 Use https://breachdirectory.tk/<br>scylla.sh/<br>to check data breaches
