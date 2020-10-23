@@ -70,6 +70,11 @@ https://iknowwhatyoudownload.com/en/peer/
 Analyze YouTube Comments:
 https://hadzy.com/
 
+<h4>to check data breaches</h4>
+
+Use https://breachdirectory.tk/
+<br>scylla.sh/<br>
+
 <br>
 <h2>Geolocation OSINT:</h2><br>
 <b><a href="https://github.com/Sporeo">Sporeo's Contribution:</a></b><br><p>
@@ -86,5 +91,4 @@ using well known public tools for information gathering.</p>
 <img src="https://i.imgur.com/4BPamvP.png" alt="GIS2"/>
 
 
-Use https://breachdirectory.tk/<br>scylla.sh/<br>to check data breaches
 https://www.duplichecker.com/reverse-image-search.php -> Check out the other tools in the website as well.
