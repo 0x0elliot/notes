@@ -70,9 +70,7 @@ https://iknowwhatyoudownload.com/en/peer/
 Analyze YouTube Comments:
 https://hadzy.com/
 
-
-
-<br><br>
+<br>
 <h2>Geolocation OSINT:</h2><br><br>
 https://www.duplichecker.com/reverse-image-search.php -- Check out the other tools in the website as well.
 <br>
@@ -86,9 +84,7 @@ by combining the information gathered through these system, you can gain much mo
 using well known public tools for information gathering.</p>
 
 <img src="https://i.imgur.com/IbryUsk.png" alt="GIS1"/>
-<br>
 <img scr="https://i.imgur.com/4BPamvP.png" alt="GIS2"/>
-<br>
 
-<br><br>
+
 Use https://breachdirectory.tk/<br>scylla.sh/<br>to check data breaches
