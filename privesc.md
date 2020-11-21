@@ -24,3 +24,8 @@ Use:<br>
 ?page=php://filter/convert.base64-encode/resource=
 <br>
 Decode the base64 text. Will help a lot.
+
+<br>
+<b>Shell uploading</b>
+<br>
+__halt_compiler() in php is a gift from god. use it on file uploading.
