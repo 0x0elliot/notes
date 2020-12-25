@@ -1,0 +1,3 @@
+ How to clone something: git clone <repo link>
+ 
+ How to clone a single branch in git: git clone --single-branch --branch <branch name> <remote link>
